@@ -18,7 +18,7 @@ all your interactions with the project and its community.
 ## Coding Standards
 
 This project adheres to the PEP 8 Python Coding Style Guidelines, Django naming
-conventions, and other standards.  See [STYLE.md](docs/STYLE.md) for details.
+conventions, and other standards.
 
 ## Programming Languages
 
